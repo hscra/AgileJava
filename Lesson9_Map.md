@@ -16,4 +16,11 @@
 ## Hash tables
 - Create class of StudentDirectory.class
 - It replace `ArrayList` to `Map`
-     
+- EnumMap and HashMap
+
+```
+public class StudentDirectoryTest () {
+  private StudentDirectory dir
+  ...
+```
+
